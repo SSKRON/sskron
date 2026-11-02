@@ -28,8 +28,8 @@ window.SSKRON_CONFIG = {
   fileName: "SSKron.zip",
 
   /* 5. Контакты */
-  telegramChannel: "https://t.me/https://t.me/+q3NRy-MMDOMyZTgy",
-  Designer: "fanfancik,
+  telegramChannel: "https://t.me/ВАШ_КАНАЛ",
+  telegramContact: "https://t.me/ВАШ_НИК",
 
   /* 6. Описание */
   description:
@@ -37,10 +37,12 @@ window.SSKRON_CONFIG = {
 
   /* 7. Возможности — добавляйте и удаляйте блоки как нужно */
   features: [
-    { title: "Возможность 1", text: "Описание первой возможности." },
-    { title: "Возможность 2", text: "Описание второй возможности." },
-    { title: "Возможность 3", text: "Описание третьей возможности." },
-    { title: "Возможность 4", text: "Описание четвёртой возможности." }
+    { icon: "crosshair", title: "AIM", text: "Настройки прицеливания и наведения." },
+    { icon: "scan", title: "ESP BOX", text: "Рамки и визуальные обозначения игроков." },
+    { icon: "bomb", title: "ESP GRANADES / WEAPONS", text: "Отображение гранат и оружия." },
+    { icon: "eye", title: "CHAMS", text: "Визуальное выделение моделей." },
+    { icon: "route", title: "ESP LINE", text: "Линии и дополнительные визуальные подсказки." },
+    { icon: "layers", title: "VISUALS", text: "Дополнительные настройки внешнего отображения." }
   ],
 
   /* 8. Инструкция по установке — подставьте свои шаги */
