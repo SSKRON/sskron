@@ -28,8 +28,8 @@ window.SSKRON_CONFIG = {
   fileName: "SSKron.zip",
 
   /* 5. Контакты */
-  telegramChannel: "https://t.me/ВАШ_КАНАЛ",
-  telegramContact: "https://t.me/ВАШ_НИК",
+  telegramChannel: "https://t.me/https://t.me/+q3NRy-MMDOMyZTgy",
+  Designer: "fanfancik,
 
   /* 6. Описание */
   description:
