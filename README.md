@@ -1,2 +1,3 @@
 # SSKron — сайт для GitHub Pages
 Все настройки (ссылка на файл, версия, контакты, тексты) — в `config.js`.
+SSKron website update
